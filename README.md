@@ -1,20 +1,12 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:7C3AED,100:EC4899&height=200&section=header&text=Bahadin%20Ali&fontSize=60&fontColor=fff&fontAlignY=45&desc=Turning%20ideas%20into%20pixel-perfect%20experiences&descAlignY=68&descColor=ffffff&animation=twinkling" width="100%"/>
 
-```
-██████╗  █████╗ ██╗  ██╗ █████╗ ██████╗ ██╗███╗  ██╗
-██╔══██╗██╔══██╗██║  ██║██╔══██╗██╔══██╗██║████╗ ██║
-██████╔╝███████║███████║███████║██║  ██║██║██╔██╗██║
-██╔══██╗██╔══██║██╔══██║██╔══██║██║  ██║██║██║╚████║
-██████╔╝██║  ██║██║  ██║██║  ██║██████╔╝██║██║ ╚███║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚══╝
-```
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://se-bahadin.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bahadin-ali)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se.bahauddin@gmail.com)
 
 </div>
-
 
 
 ## Me
