@@ -9,18 +9,15 @@
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚══╝
 ```
 
-### Frontend Developer · Erbil, Iraq 🇮🇶
-*Bridging the gap between visual aesthetics and high-performance engineering*
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://se-bahadin.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bahadin-ali)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se.bahauddin@gmail.com)
 
 </div>
 
----
 
-## About Me
+
+## Me
 
 ```ts
 const bahadin = {
@@ -30,9 +27,6 @@ const bahadin = {
 };
 ```
 
----
-
-## ⚡
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
@@ -56,9 +50,6 @@ const bahadin = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
----
-
-## 📊 GitHub Stats
 
 <h3 align="center">— STATS —</h3>
 <div align="center">
@@ -72,7 +63,7 @@ const bahadin = {
 </div>
 <br/>
 
----
+
 
 
 ## 💡 Philosophy
@@ -81,7 +72,7 @@ const bahadin = {
 
 I believe great frontend work is invisible. The user never notices the architecture; they just feel the smoothness.
 
----
+
 
 <div align="center">
 
